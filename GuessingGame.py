@@ -3,8 +3,8 @@ import random
 num = random.randint(1, 100)
 print(num)
 count = 0;
-
 guess = 0;
+
 while (guess == 0):
     try:
         guess = int(input("Guess what number has the computer selected? "))
