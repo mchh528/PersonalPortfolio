@@ -1,3 +1,8 @@
+# simple guessing game in CL using random library and general condition checking
+
+# Date Completed: 2/02/21
+# Author: Marlon Chhour
+
 import random
 
 num = random.randint(1, 100)
