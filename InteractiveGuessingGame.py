@@ -9,6 +9,11 @@ window.title("Guess The Number!")
 
 # User inputs for lowest number and highest number
 
+
+
+# Labels of the numbers for the user to guess
+
+
 # 
 
 # Required: Functions
